@@ -28,4 +28,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.lai.weavey:dialog:2.0'
     compile 'com.tbruyelle.rxpermissions:rxpermissions:0.9.0@aar'
+    compile 'io.reactivex:rxjava:1.1.0'
 }
