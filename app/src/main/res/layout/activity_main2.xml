@@ -16,14 +16,14 @@
         android:id="@+id/normal_request"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="普通申请权限流程"
+        android:text="一般申请权限流程"
         />
 
     <Button
         android:id="@+id/rx_request"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="RxPermission申请权限"
+        android:text="RxPermission申请权限方案"
         />
 
 </LinearLayout>
